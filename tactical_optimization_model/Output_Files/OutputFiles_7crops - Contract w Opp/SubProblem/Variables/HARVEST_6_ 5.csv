@@ -1,0 +1,11 @@
+WEEKS,WEEKH,WEEKP,PROD,QUAL,FAC,CUST,TRANS,WEEK1,DC,WARE,SCEN,CROP,LOC,WORK,WORK3,Value,Dual,URC
+0,27,5,,0,,,,ModelStochastic6.Models.WEEK1Model,,,4,CAUL,Phoenix,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,554734.7125754367,0,0
+0,34,5,,0,,,,ModelStochastic6.Models.WEEK1Model,,,4,CEL,Phoenix,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,534992.4223768701,0,0
+0,27,6,,0,,,,ModelStochastic6.Models.WEEK1Model,,,4,CEL,Yuma,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,840000,0,0
+0,31,10,,0,,,,ModelStochastic6.Models.WEEK1Model,,,4,LET,Las_Cruces,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,311221.2810701829,0,0
+0,32,12,,0,,,,ModelStochastic6.Models.WEEK1Model,,,4,LET,Albuquerque,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,229425.9002949472,0,0
+0,32,14,,0,,,,ModelStochastic6.Models.WEEK1Model,,,4,LET,Albuquerque,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,606708.6693275514,0,0
+0,38,16,,0,,,,ModelStochastic6.Models.WEEK1Model,,,4,LET,Aspen,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,91800,0,0
+0,34,17,,0,,,,ModelStochastic6.Models.WEEK1Model,,,4,LET,Las_Cruces,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,153110.48724258202,0,0
+0,34,19,,0,,,,ModelStochastic6.Models.WEEK1Model,,,4,LET,Albuquerque,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,265465.43037750147,0,0
+0,48,33,,0,,,,ModelStochastic6.Models.WEEK1Model,,,4,LET,Tucson,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,388800,0,0
