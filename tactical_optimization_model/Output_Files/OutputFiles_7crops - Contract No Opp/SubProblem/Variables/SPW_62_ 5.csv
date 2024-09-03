@@ -1,0 +1,9 @@
+WEEKS,WEEKH,WEEKP,PROD,QUAL,FAC,CUST,TRANS,WEEK1,DC,WARE,SCEN,CROP,LOC,WORK,WORK3,Value,Dual,URC
+52,52,0,TOM_P,2,P6,,TM1,ModelStochastic6.Models.WEEK1Model,,W2,0,,,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,1337.312382180041,0,0
+53,52,0,TOM_P,2,P1,,TM1,ModelStochastic6.Models.WEEK1Model,,W2,0,,,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,633.2226656915598,0,0
+53,53,0,TOM_P,2,P6,,TM1,ModelStochastic6.Models.WEEK1Model,,W1,0,,,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,668.6561910900205,0,0
+55,55,0,TOM_P,2,P3,,TM1,ModelStochastic6.Models.WEEK1Model,,W2,0,,,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,1264.801010591714,0,0
+56,56,0,TOM_P,2,P3,,TM1,ModelStochastic6.Models.WEEK1Model,,W2,0,,,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,2108.0013109215092,0,0
+57,57,0,TOM_P,2,P3,,TM1,ModelStochastic6.Models.WEEK1Model,,W2,0,,,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,2951.202171348326,0,0
+58,58,0,TOM_P,2,P3,,TM1,ModelStochastic6.Models.WEEK1Model,,W2,0,,,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,3131.8877899627046,0,0
+59,59,0,TOM_P,2,P3,,TM1,ModelStochastic6.Models.WEEK1Model,,W1,0,,,ModelStochastic6.Models.WORKModel,ModelStochastic6.Models.WORK3Model,2650.0592869586876,0,0
